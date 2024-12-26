@@ -19,5 +19,7 @@ These results have demonstrated the superiority of BPDA in terms of effectivenes
 4. We implemented a prototype system, BPDA, and evaluated it against the state-of-the-art solutions for finding taint-style vulnerabilities in firmware binaries.
 
 ## Time Line
+2024.5.1: Some problems found in SaTc.  
+2024.7.1: The code has been made and ready to make experiments.  
 2024.8.31: Experiment has been achieved and ready to make the paper.  
 2024.11.15：The paper has been made and submitted to S&P 2025.
