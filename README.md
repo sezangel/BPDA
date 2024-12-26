@@ -17,3 +17,7 @@ These results have demonstrated the superiority of BPDA in terms of effectivenes
 2. We proposed a novel method for identifying custom vulnerable functions by recognizing specific loop structure, which can detect more sink points than existing methods.
 3. We introduced a static vulnerability discovering approach combined with forward and backward analysis, which improves analysis efficiency over existing tools.
 4. We implemented a prototype system, BPDA, and evaluated it against the state-of-the-art solutions for finding taint-style vulnerabilities in firmware binaries.
+
+## Time Line
+2024.8.31: Experiment has been achieved and ready to make the paper.
+2024.11.15：The paper has been made and submitted to S&P 2025.
