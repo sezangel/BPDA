@@ -22,7 +22,7 @@ These results have demonstrated the superiority of BPDA in terms of effectivenes
 2024.5.1: Some problems found in SaTc.  
 2024.7.1: The code has been made and ready to make experiments.  
 2024.8.31: Experiment has been achieved and ready to make the paper.  
-2024.11.15：The paper has been made and submitted to S&P2025.
-2025.1.21：S&P2025：Moving to R2，R1 passed.
-2025.2.18：S&P2025 R2 result.
-2025.2.25：S&P2025 Rebuttal.
+2024.11.15：The paper has been made and submitted to S&P2025.  
+2025.1.21：S&P2025：Moving to R2，R1 passed.  
+2025.2.18：S&P2025 R2 result.  
+2025.2.25：S&P2025 Rebuttal.  
